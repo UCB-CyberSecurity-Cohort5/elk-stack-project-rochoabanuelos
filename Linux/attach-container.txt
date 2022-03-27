@@ -1,0 +1,1 @@
+sudo docker container attach unruffled_einstein

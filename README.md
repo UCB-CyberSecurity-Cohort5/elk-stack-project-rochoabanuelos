@@ -112,28 +112,27 @@ curl https://gist.githubusercontent.com/slape/5cc350109583af6cbe577bbcc0710c93/r
 
 Adding sample web log data to Kibana.
 
-[PHOTO]
+![alt text](EXPLORING KIBANA/EXPLORING KIBANA - 1.PNG)
 
 - In the last 7 days, there was 249 unique visitors located in India.
 
-[PHOTO]
+![alt text](Diagram/ELK-DIAGRAM.png)
 
 - In the last 24 hours, of the visitors from China, 8 were using Mac OSX.
 
-
-[PHOTO]
+![alt text](Diagram/ELK-DIAGRAM.png)
 
 - In the last 2 days, what percentage of visitors received 404 errors were 7.5% and 2.5% for 503 errors.
 
-[PHOTO]
+![alt text](Diagram/ELK-DIAGRAM.png)
 
 - In the last 7 days, China produced the majority of the traffic on the website at 264 unique visitors.
 
-[PHOTO]
+![alt text]
 
 - Of the traffic that's coming from that country, 11:00AM to 13:00 had the highest amount of activity.
 
-[PHOTO]
+![alt text]
 
 - Below are all the types of downloaded files the past 7 days and a short description.
 
@@ -147,60 +146,60 @@ Adding sample web log data to Kibana.
 
 - rpm: A Red Hat Software Package file. RPM stands for Red Hat Package Manager.
 
-[PHOTO]
+![alt text]
 
 ### Unique Visitors Vs. Average Bytes.
 - 15:00 to 21:00 time frame in the last 7 days seems to have the most amount of bytes (activity).
 
-[PHOTO]
+![alt text]
 
 - We can see one visitor with usually high activity.
 
-[PHOTO]
+![alt text]
 
 - Filter the data by this event.
 
-[PHOTO]
+![alt text]
 
 - What is the timestamp for this event is 14:58
 
-[PHOTO]
+![alt text]
 
 - The type of file downloaded is .gz file.
 
-[PHOTO]
+![alt text]
 
 - The country this activity originated from is China.
 
-[PHOTO]
+![alt text]
 
 - What HTTP response codes were 200 OK.
 
-[PHOTO]
+![alt text]
 
 - On the Kibana Discover page we can see more details about this activity.
 
-[PHOTO]
+![alt text]
 
 - The source IP address of this activity is 
 
-[PHOTO]
+![alt text]
 
 - The geo coordinates of this activity is
 
-[PHOTO]
+![alt text]
 
 - The OS that the source machine was running is
 
-[PHOTO]
+![alt text]
 
 - The full URL that was accessed
 
-[PHOTO]
+![alt text]
 
 - The website that the visitor's traffic originated from
 
-[PHOTO]
+![alt text]
 
 ### Finish your investigation with a short overview of your insights.
 - What do you think the user was doing?

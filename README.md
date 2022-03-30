@@ -124,15 +124,15 @@ Adding sample web log data to Kibana.
 
 - In the last 2 days, what percentage of visitors received 404 errors were 7.5% and 2.5% for 503 errors.
 
-![alt text](Diagram/ELK-DIAGRAM.png)
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%204.PNG?raw=true)
 
 - In the last 7 days, China produced the majority of the traffic on the website at 264 unique visitors.
 
-![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%204.PNG?raw=true)
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%205.PNG?raw=true)
 
 - Of the traffic that's coming from that country, 11:00AM to 13:00 had the highest amount of activity.
 
-![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%205.PNG?raw=true)
+![alt text]()
 
 - Below are all the types of downloaded files the past 7 days and a short description.
 

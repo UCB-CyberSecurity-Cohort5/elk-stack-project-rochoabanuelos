@@ -112,7 +112,7 @@ curl https://gist.githubusercontent.com/slape/5cc350109583af6cbe577bbcc0710c93/r
 
 Adding sample web log data to Kibana.
 
-![alt text](EXPLORING KIBANA/EXPLORING KIBANA - 1.PNG)
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%201.PNG?raw=true)
 
 - In the last 7 days, there was 249 unique visitors located in India.
 

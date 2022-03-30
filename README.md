@@ -110,111 +110,112 @@ curl https://gist.githubusercontent.com/slape/5cc350109583af6cbe577bbcc0710c93/r
 
 ## Exploring Kibana
 
-1.	Adding sample web log data to Kibana.
+Adding sample web log data to Kibana.
 
 [PHOTO]
 
-2.	Answer the following questions:
-o	In the last 7 days, there was 249 unique visitors located in India.
+Answer the following questions:
+- In the last 7 days, there was 249 unique visitors located in India.
 
 [PHOTO]
 
-o	In the last 24 hours, of the visitors from China, 8 were using Mac OSX.
+- In the last 24 hours, of the visitors from China, 8 were using Mac OSX.
 
 
 [PHOTO]
 
-o	In the last 2 days, what percentage of visitors received 404 errors were 7.5% and 2.5% for 503 errors.
+- In the last 2 days, what percentage of visitors received 404 errors were 7.5% and 2.5% for 503 errors.
 
 [PHOTO]
 
-o	In the last 7 days, China produced the majority of the traffic on the website at 264 unique visitors.
+- In the last 7 days, China produced the majority of the traffic on the website at 264 unique visitors.
 
 [PHOTO]
 
-o	Of the traffic that's coming from that country, 11:00AM to 13:00 had the highest amount of activity.
+- Of the traffic that's coming from that country, 11:00AM to 13:00 had the highest amount of activity.
 
 [PHOTO]
 
-o	Below are all the types of downloaded files the past 7 days and a short description.
+- Below are all the types of downloaded files the past 7 days and a short description.
 
-o	gz: Are compressed files created using the gzip compression utility.
+- gz: Are compressed files created using the gzip compression utility.
 
-o	css: Are files that can define font, size, color, spacing, border and location of HTML information on a webpage.
+- css: Are files that can define font, size, color, spacing, border and location of HTML information on a webpage.
 
-o	zip: A lossless compression format. Can contain one or more files or directories that have been compressed.
+- zip: A lossless compression format. Can contain one or more files or directories that have been compressed.
 
-o	deb: A Debian (Linux) Software Package file. These files are installed when using the apt package manager.
+- deb: A Debian (Linux) Software Package file. These files are installed when using the apt package manager.
 
-o	rpm: A Red Hat Software Package file. RPM stands for Red Hat Package Manager.
-
-[PHOTO]
-
-3.	Unique Visitors Vs. Average Bytes.
-o	15:00 to 21:00 time frame in the last 7 days seems to have the most amount of bytes (activity).
+- rpm: A Red Hat Software Package file. RPM stands for Red Hat Package Manager.
 
 [PHOTO]
 
-o	We can see one visitor with usually high activity.
+Unique Visitors Vs. Average Bytes.
+- 15:00 to 21:00 time frame in the last 7 days seems to have the most amount of bytes (activity).
 
 [PHOTO]
 
-4.	Filter the data by this event.
+- We can see one visitor with usually high activity.
 
 [PHOTO]
 
-o	What is the timestamp for this event is 14:58
+- Filter the data by this event.
 
 [PHOTO]
 
-o	The type of file downloaded is .gz file.
+- What is the timestamp for this event is 14:58
 
 [PHOTO]
 
-o	The country this activity originated from is China.
+- The type of file downloaded is .gz file.
 
 [PHOTO]
 
-o	What HTTP response codes were 200 OK.
+- The country this activity originated from is China.
 
 [PHOTO]
 
-5.	On the Kibana Discover page we can see more details about this activity.
+- What HTTP response codes were 200 OK.
 
 [PHOTO]
 
-o	The source IP address of this activity is 
+- On the Kibana Discover page we can see more details about this activity.
 
 [PHOTO]
 
-o	The geo coordinates of this activity is
+- The source IP address of this activity is 
 
 [PHOTO]
 
-o	The OS that the source machine was running is
+- The geo coordinates of this activity is
 
 [PHOTO]
 
-o	The full URL that was accessed
+- The OS that the source machine was running is
 
 [PHOTO]
 
-o	The website that the visitor's traffic originated from
+- The full URL that was accessed
 
 [PHOTO]
 
-6.	Finish your investigation with a short overview of your insights.
-o	What do you think the user was doing?
-I believe that the visitor may be trying to access and download archive files as indicated by the tar.gz file type from the Elastic downloads section from the Columbian site.
+- The website that the visitor's traffic originated from
 
-o	Was the file they downloaded malicious? If not, what is the file used for?
+[PHOTO]
 
-Does not seem is malicious. It is an compressed file from the ‘downloads’ section for the software.
+Finish your investigation with a short overview of your insights.
+- What do you think the user was doing?
+  
+  I believe that the visitor may be trying to access and download archive files as indicated by the tar.gz file type from the Elastic downloads section.
 
-o	Is there anything that seems suspicious about this activity?
+- Was the file they downloaded malicious? If not, what is the file used for?
 
-Can’t confirm if activity is suspicious. Visitor can just be downloading the software to work with on their workstation.
+  Does not seem is malicious. It is an compressed file from the ‘downloads’ section for the software.
 
-o	Is any of the traffic you inspected potentially outside of compliance guidelines?
+- Is there anything that seems suspicious about this activity?
 
-Based on the data given, the traffic seems evenly distributed with high spikes during normal peak hours of the day. The spike samples that were investigated seem normal behavior often referred from Facebook.
+  Can’t confirm if activity is suspicious. Visitor can just be downloading the software to work with on their workstation.
+
+- Is any of the traffic you inspected potentially outside of compliance guidelines?
+
+  Based on the data given, the traffic seems evenly distributed with high spikes during normal peak hours of the day. The spike samples that were investigated seem normal behavior often referred from Facebook.

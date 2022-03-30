@@ -116,11 +116,11 @@ Adding sample web log data to Kibana.
 
 - In the last 7 days, there was 249 unique visitors located in India.
 
-![alt text](Diagram/ELK-DIAGRAM.png)
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%202.PNG?raw=true)
 
 - In the last 24 hours, of the visitors from China, 8 were using Mac OSX.
 
-![alt text](Diagram/ELK-DIAGRAM.png)
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%203.PNG?raw=true)
 
 - In the last 2 days, what percentage of visitors received 404 errors were 7.5% and 2.5% for 503 errors.
 
@@ -128,11 +128,11 @@ Adding sample web log data to Kibana.
 
 - In the last 7 days, China produced the majority of the traffic on the website at 264 unique visitors.
 
-![alt text]
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%204.PNG?raw=true)
 
 - Of the traffic that's coming from that country, 11:00AM to 13:00 had the highest amount of activity.
 
-![alt text]
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%205.PNG?raw=true)
 
 - Below are all the types of downloaded files the past 7 days and a short description.
 
@@ -146,12 +146,12 @@ Adding sample web log data to Kibana.
 
 - rpm: A Red Hat Software Package file. RPM stands for Red Hat Package Manager.
 
-![alt text]
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%206.PNG?raw=true)
 
 ### Unique Visitors Vs. Average Bytes.
 - 15:00 to 21:00 time frame in the last 7 days seems to have the most amount of bytes (activity).
 
-![alt text]
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%207.PNG?raw=true)
 
 - We can see one visitor with usually high activity.
 

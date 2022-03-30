@@ -114,7 +114,6 @@ Adding sample web log data to Kibana.
 
 [PHOTO]
 
-### Answer the following questions:
 - In the last 7 days, there was 249 unique visitors located in India.
 
 [PHOTO]

@@ -114,7 +114,7 @@ Adding sample web log data to Kibana.
 
 [PHOTO]
 
-Answer the following questions:
+### Answer the following questions:
 - In the last 7 days, there was 249 unique visitors located in India.
 
 [PHOTO]
@@ -150,7 +150,7 @@ Answer the following questions:
 
 [PHOTO]
 
-Unique Visitors Vs. Average Bytes.
+### Unique Visitors Vs. Average Bytes.
 - 15:00 to 21:00 time frame in the last 7 days seems to have the most amount of bytes (activity).
 
 [PHOTO]
@@ -203,7 +203,7 @@ Unique Visitors Vs. Average Bytes.
 
 [PHOTO]
 
-Finish your investigation with a short overview of your insights.
+### Finish your investigation with a short overview of your insights.
 - What do you think the user was doing?
   
   I believe that the visitor may be trying to access and download archive files as indicated by the tar.gz file type from the Elastic downloads section.

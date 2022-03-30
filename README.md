@@ -212,7 +212,7 @@ Adding sample web log data to Kibana.
 
 - Is there anything that seems suspicious about this activity?
 
-  Can’t confirm if activity is suspicious. Visitor can just be downloading the software to work with on their workstation.
+  Can’t confirm if activity is suspicious. Visitor can just be downloading the software to use on their workstation.
 
 - Is any of the traffic you inspected potentially outside of compliance guidelines?
 

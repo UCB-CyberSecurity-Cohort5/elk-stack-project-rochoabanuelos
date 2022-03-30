@@ -132,7 +132,7 @@ Adding sample web log data to Kibana.
 
 - Of the traffic that's coming from that country, 11:00AM to 13:00 had the highest amount of activity.
 
-![alt text]()
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%206.PNG?raw=true)
 
 - Below are all the types of downloaded files the past 7 days and a short description.
 
@@ -146,60 +146,60 @@ Adding sample web log data to Kibana.
 
 - rpm: A Red Hat Software Package file. RPM stands for Red Hat Package Manager.
 
-![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%206.PNG?raw=true)
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%207.PNG?raw=true)
 
 ### Unique Visitors Vs. Average Bytes.
 - 15:00 to 21:00 time frame in the last 7 days seems to have the most amount of bytes (activity).
 
-![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%207.PNG?raw=true)
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%208.PNG?raw=true)
 
 - We can see one visitor with usually high activity.
 
-![alt text]
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%209.PNG?raw=true)
 
 - Filter the data by this event.
 
-![alt text]
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%2010.PNG?raw=true)
 
 - What is the timestamp for this event is 14:58
 
-![alt text]
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%2011.PNG?raw=true)
 
 - The type of file downloaded is .gz file.
 
-![alt text]
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%2012.PNG?raw=true)
 
 - The country this activity originated from is China.
 
-![alt text]
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%2013.PNG?raw=true)
 
 - What HTTP response codes were 200 OK.
 
-![alt text]
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%2014.PNG?raw=true)
 
 - On the Kibana Discover page we can see more details about this activity.
 
-![alt text]
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%2015.PNG?raw=true)
 
 - The source IP address of this activity is 
 
-![alt text]
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%2016.PNG?raw=true)
 
 - The geo coordinates of this activity is
 
-![alt text]
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%2017.PNG?raw=true)
 
 - The OS that the source machine was running is
 
-![alt text]
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%2018.PNG?raw=true)
 
 - The full URL that was accessed
 
-![alt text]
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%2019.PNG?raw=true)
 
 - The website that the visitor's traffic originated from
 
-![alt text]
+![alt text](https://github.com/UCB-CyberSecurity-Cohort5/elk-stack-project-rochoabanuelos/blob/main/EXPLORING%20KIBANA/EXPLORING%20KIBANA%20-%2020.PNG?raw=true)
 
 ### Finish your investigation with a short overview of your insights.
 - What do you think the user was doing?
